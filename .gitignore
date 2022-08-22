@@ -4,3 +4,9 @@ checkpoints/*
 **/*.pyc
 **/__pycache__
 .vscode
+
+# test data
+test_data
+
+# cache?
+pointnet2/tf_ops/sampling/1.pkl
