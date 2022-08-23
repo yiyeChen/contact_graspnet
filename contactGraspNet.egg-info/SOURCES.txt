@@ -1,0 +1,5 @@
+setup.py
+contactGraspNet.egg-info/PKG-INFO
+contactGraspNet.egg-info/SOURCES.txt
+contactGraspNet.egg-info/dependency_links.txt
+contactGraspNet.egg-info/top_level.txt
